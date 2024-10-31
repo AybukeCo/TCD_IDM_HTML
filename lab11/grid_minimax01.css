@@ -1,0 +1,22 @@
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  /*grid-template-rows: minimax(100px auto);*/
+  grid-template-rows: 100px 100px;
+  gap: 10px;
+  background-color:blue;
+}
+
+.box {
+	background-color:#d5f0e0;
+	border:1px solid black;
+	height: 100px;
+}
+
+.bigbox {
+	background-color:#d5f0e0;
+	border:1px solid black;
+	height: 200px;
+}
+

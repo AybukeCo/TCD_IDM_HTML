@@ -1,0 +1,19 @@
+
+.wrapper {
+  display: flex;
+  align-items: stretch;
+  background-color:blue;
+}
+
+.box {
+	background-color:#d5f0e0;
+	flex: 0 0 800px;
+	margin: 10px;
+	border:1px solid black;
+	
+}
+
+	
+
+
+

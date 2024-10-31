@@ -1,0 +1,23 @@
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 200px 200px 200px 200px;
+  grid-template-rows: 300px 300px;
+  gap: 10px;
+  background-color:blue;
+}
+
+.box1 {
+	background-color:#d5f0e0;
+	border:1px solid black;
+	grid-column: 2 / span 2;
+}
+
+.box2 {
+	background-color:#d5f0e0;
+	border:1px solid black;
+	grid-column: 3 / span 2;
+
+}
+
+

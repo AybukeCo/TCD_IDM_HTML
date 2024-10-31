@@ -1,0 +1,16 @@
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(4, 100px);
+  grid-template-rows: 100px;
+  gap: 10px;
+  background-color:blue;
+}
+
+.box {
+	background-color:#d5f0e0;
+	border:1px solid black;
+}
+
+
+

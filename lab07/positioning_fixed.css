@@ -1,0 +1,35 @@
+.staticexample {
+	position: static;
+	border-style: solid;
+	border-width: 1px;
+	border-color: red;	
+}
+.relativeexample1 { 
+	position: relative;
+	border-style: solid;
+	border-width: 1px;
+	border-color: blue;	 
+} 
+
+.relativeexample2 { 
+	position: relative; 
+	top: -20px; 
+	left: 20px; 
+	background-color: grey; 
+	width: 500px;
+	/*height:800px;*/
+	border-style: solid;	
+	border-width: 1px;
+	border-color: red;	
+	}
+
+.fixedexample{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 200px;
+  background-color: yellow;
+  border-style: solid;	
+  border-width: 1px;
+		
+}

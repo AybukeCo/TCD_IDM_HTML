@@ -1,0 +1,20 @@
+
+.wrapper {
+  background-color:blue;
+  display: flex;
+  flex-direction:column-reverse;
+}
+
+.box1 {
+	background-color:#d5f0e0;
+	height:50px;
+	border:1px solid black;
+}
+.box2 {
+	background-color:#d5f0e0;
+	border:1px solid black;
+}
+.box3 {
+	background-color:#d5f0e0;
+	border:1px solid black;
+}

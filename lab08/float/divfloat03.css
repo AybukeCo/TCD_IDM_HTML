@@ -1,0 +1,25 @@
+.floatred{
+	float:right;
+	background-color:red;
+	width:100px;
+	height:100px;
+}
+
+.floatblue{
+	float:right;
+	background-color:blue;
+	width:100px;
+	height:100px;
+}
+
+.floatyellow{
+	float:right;
+	background-color:yellow;
+	width:100px;
+	height:100px;
+}
+.container{
+	border:solid black 1px;
+	width:400px;
+	height:100px;
+}

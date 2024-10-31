@@ -1,0 +1,19 @@
+
+  .wrapper {
+  display: grid;
+  grid-template-columns: 100px 200px;
+  grid-template-rows: 100px 50px;
+  column-gap: 25px;
+  row-gap: 25px;
+}
+
+
+
+
+
+
+.box {
+	background-color:#d5f0e0;
+	border:1px solid black;
+}
+

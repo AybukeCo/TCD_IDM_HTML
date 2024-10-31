@@ -1,0 +1,16 @@
+.static {
+	
+	border-width: 1px;
+	border-color: red;
+	position: static;
+}
+.relative1 { 
+position: relative; 
+} 
+
+.relative2 { 
+position: relative; 
+top: -20px; 
+left: 20px; 
+background-color: white; 
+width: 500px; }

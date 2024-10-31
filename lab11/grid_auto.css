@@ -1,0 +1,13 @@
+
+  .wrapper {
+  display: grid;
+  grid-template-rows: 100px auto 100px;
+}
+
+
+
+.box {
+	background-color:#d5f0e0;
+	border:1px solid black;
+}
+

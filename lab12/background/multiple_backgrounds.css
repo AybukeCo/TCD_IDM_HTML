@@ -1,0 +1,19 @@
+/*body{
+	background: url(images/thumbtack.png) 50% 5px no-repeat,
+	url(images/stains1.png) 90% -20px no-repeat,
+	url(images/stains2.png) 30% 8% no-repeat,
+	url(images/stains3.png) 20% 50% no-repeat,
+	url(images/stains4.png) 40% 60% no-repeat,
+	url(images/paperlines.gif) #FBFBF9;
+}*/
+
+body{
+
+	background: url(images/thumbtack.png),
+	url(images/stains1.png),
+	url(images/stains2.png),
+	url(images/stains3.png),
+	url(images/stains4.png),
+	url(images/paperlines.gif) #FBFBF9;
+}
+

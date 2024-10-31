@@ -1,0 +1,13 @@
+.float{
+	float:left;
+	background-color:red;
+	width:100px;
+	height:100px;
+}
+
+.container{
+	float:right;
+	background-color:blue;
+	width:200px;
+	height:200px;
+}

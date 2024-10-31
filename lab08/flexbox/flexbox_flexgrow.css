@@ -1,0 +1,26 @@
+
+.wrapper {
+  display: flex;
+  background-color:blue;
+}
+
+.box1 {
+	background-color:#d5f0e0;
+	
+	border:1px solid black;
+	flex-grow: 1;	
+}
+.box2 {
+	background-color:#d5f0e0;
+	
+	border:1px solid black;
+	flex-grow: 1;
+}
+.box3 {
+	background-color:#d5f0e0;
+	
+	border:1px solid black;
+	flex-grow: 5;
+}
+
+

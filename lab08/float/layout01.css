@@ -1,0 +1,31 @@
+#container{
+width:960px; 
+background: grey;
+margin: 0 auto; 
+}
+
+#header {
+color: white;
+background: blue;
+}
+
+#nav {
+margin:0;
+background: blue;
+color: white; 
+width: 240px; 
+float: left; 
+} 	
+
+#content {
+background: yellow;
+width: 680px; 
+float: right; 
+
+}
+
+#footer {
+	padding: 10px 0;
+	background: #CCC49F;
+	clear: both;
+}

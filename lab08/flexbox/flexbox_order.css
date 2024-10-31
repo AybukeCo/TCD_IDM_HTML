@@ -1,0 +1,35 @@
+
+.wrapper {
+  display: flex;
+  background-color:blue;
+}
+
+.box1 {
+	background-color:#d5f0e0;
+	height:100px;
+	width: 100px;
+	border:1px solid black;
+	order: 3;	
+}
+.box2 {
+	background-color:#d5f0e0;
+	height:100px;
+	width: 100px;
+	border:1px solid black;
+	order: 2;	
+}
+.box3 {
+	background-color:#d5f0e0;
+	height:100px;
+	width: 100px;
+	border:1px solid black;
+	order: 4;	
+}
+.box4 {
+	background-color:#d5f0e0;
+	height:100px;
+	width: 100px;
+	border:1px solid black;
+	order: 1;	
+}
+

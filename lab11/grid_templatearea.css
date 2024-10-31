@@ -1,0 +1,36 @@
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  grid-template-rows: 100px 300px 100px;
+  grid-template-areas:
+    "header header"
+    "sidebar content"
+    "footer footer";
+  gap: 20px;
+  background-color:blue;
+}
+
+.box1 {
+	grid-area: header;
+	background-color:#d5f0e0;
+	border:1px solid black;	
+}
+
+.box2 {
+	grid-area: sidebar;
+	background-color:yellow;
+	border:1px solid black;	
+}
+
+.box3 {
+	grid-area: content;
+	background-color:pink;
+	border:1px solid black;	
+}
+
+.box4 {
+	grid-area: footer;
+	background-color:orange;
+	border:1px solid black;	
+}

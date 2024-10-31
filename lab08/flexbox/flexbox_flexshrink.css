@@ -1,0 +1,23 @@
+
+.wrapper {
+  display: flex;
+  align-items: stretch;
+  background-color:blue;
+}
+
+.box1 {
+	background-color:#d5f0e0;
+	width: 200px;
+	margin: 10px;
+	border:1px solid black;
+	flex-shrink: 0;	
+}
+.box2 {
+	background-color:#d5f0e0;
+	width: 200px;
+	margin: 10px;
+	border:1px solid black;
+	
+
+
+

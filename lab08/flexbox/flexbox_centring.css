@@ -1,0 +1,18 @@
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  background-color:blue;
+}
+
+.box {
+	background-color:#d5f0e0;
+	height:100px;
+	width: 100px;
+	border:1px solid black;
+
+	
+}
+

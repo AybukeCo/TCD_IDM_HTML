@@ -1,0 +1,42 @@
+body {
+    font-family: arial, helvetica, serif;
+    font-size: 0.8em;
+    color: navy;
+}
+
+
+h1 {
+    color: yellow;
+    background-color: blue;
+}
+
+a {
+text-decoration: none;
+}
+
+strong {
+font-style: italic; text-transform: uppercase;
+}
+
+p {
+    color: green;
+    background-color: peachpuff;
+    letter-spacing: 0.5em;
+    word-spacing: 2em;
+    line-height: 1.5em;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.5em;
+    background-color: rgb(89,52,196);
+    margin: 4em;
+    padding: 6em;
+    border-style: dashed;
+    border-width: 13px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: teal;
+}
+
+/* style for lab exercise*/

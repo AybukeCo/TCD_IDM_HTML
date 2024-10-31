@@ -1,0 +1,19 @@
+.simple {
+  width: 500px;
+  margin: 20px auto;
+ 
+  border-style: solid;
+  border-width: 1px;
+  border-color: green;  
+}
+
+.fancy {
+  width: 500px;
+  margin: 20px auto;
+  padding: 50px;
+  border-width: 10px;
+  
+  border-style: solid;
+  border-color: green;  
+  
+}

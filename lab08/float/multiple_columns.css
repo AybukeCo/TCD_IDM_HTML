@@ -1,0 +1,6 @@
+#leftside { background:red; width: 66%; float: left; } 
+
+#rightside { background:blue; width: 33%; float: right; } 
+
+#leftcolumn { background:yellow; width: 75%; float: left; } 
+#centrecolumn { background:green; width: 25%; float: right; }
