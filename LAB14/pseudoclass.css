@@ -1,0 +1,17 @@
+.ghost:link { 
+	color: red; 
+	} 
+	
+.ghost:visited { 
+	color: yellow; 
+	} 
+
+.ghost:active { 
+	color: green; 
+	} 
+
+.ghost:hover { 
+	text-decoration: none; 
+	color: blue; 
+	background-color: yellow; 
+	} 

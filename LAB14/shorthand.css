@@ -1,0 +1,8 @@
+p { 
+	font: 1em/1.5 "Courier", times, serif; 
+	padding: 3em 1em; 
+	border: 1px black solid; 
+	border-width: 1px 5px 5px 1px; 
+	border-color: red green blue yellow; 
+	margin: 1em 5em; 
+	} 
