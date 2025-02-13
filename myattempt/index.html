@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="script.js"></script>
+        <title>Document</title>
+    </head>
+    <body onload="message('LOAD')" onresize="message('RESIZE')">
+        <h1>Changing Buttons</h1>
+	    <button onclick="document.getElementById('stuff').innerHTML = 'Clicked First Button';">First</button>
+        <button onclick="document.getElementById('stuff').innerHTML = 'Clicked Second Button';">Second</button>
+        <p>This code shouldn't change</p>
+        <p id="stuff">This will change</p>
+        <p>This shuldn't change either</p>
+
+        <button type="button" onclick="openMe()">Open!</button>
+        <button type="button" onclick="closeMe()">Close!</button>
+    
+        <p id="demo">Extra details...You can open and close this paragraph using the buttons above.</p>
+
+    </body>
+</html>
